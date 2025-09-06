@@ -16,7 +16,7 @@ Certifique-se de que o arquivo de dados Cars Datasets 2025.csv esteja na mesma p
 
 Execute o script em um ambiente Python. Você pode usar um editor de código como o VS Code, PyCharm, ou um Jupyter Notebook.
 
-Estrutura do Código
+#Estrutura do Código
 O código está dividido em três seções principais, cada uma responsável por uma parte do fluxo de trabalho:
 
 1. Limpeza dos Dados
@@ -28,7 +28,7 @@ Aqui, um mapa de calor é gerado usando a biblioteca seaborn. Ele visualiza a ma
 3. Regressão Linear
 Nesta etapa, o modelo de machine learning é construído. Os dados são divididos em conjuntos de treino e teste, o modelo é treinado, as previsões são feitas e, finalmente, o desempenho do modelo é avaliado. As métricas de desempenho e os coeficientes do modelo são exibidos no console.
 
-Resultados
+#Resultados
 Ao executar o código, você verá as seguintes saídas:
 
 Amostras dos Dados: O console mostrará as primeiras linhas dos dados antes e depois da limpeza, permitindo que você verifique o sucesso do pré-processamento.
