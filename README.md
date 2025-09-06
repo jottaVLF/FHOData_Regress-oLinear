@@ -35,6 +35,6 @@ Amostras dos Dados: O console mostrará as primeiras linhas dos dados antes e de
 
 Mapa de Calor: Um gráfico de mapa de calor será gerado, mostrando a correlação entre as variáveis.
 
-Métricas de Desempenho: As métricas do modelo de regressão linear, como o Coeficiente de Determinação de 0.56, por exemplo, indica que 56% da variação nos preços é explicada pelas variáveis do modelo.
+Métricas de Desempenho: As métricas do modelo de regressão linear, como o Coeficiente de Determinação. Um R² de 0.56, por exemplo, indica que 56% da variação nos preços é explicada pelas variáveis do modelo.
 
 Previsões: As primeiras previsões do modelo são mostradas lado a lado com os preços reais para uma comparação direta.
